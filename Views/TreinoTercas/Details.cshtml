@@ -1,0 +1,41 @@
+﻿@model AAPC.Models.TreinoTerca
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalhes do Treino de Terça</h1>
+
+<p>
+    <a asp-action="Create">Inscreva-se</a>
+</p>
+
+<div>
+    <h4>TreinoTerca</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Sobrenome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Sobrenome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nascimento)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nascimento)
+        </dd>
+        
+    </dl>
+</div>
+<div>
+    <a asp-action="Create" asp-route-id="@Model.Id">Inscreva-se Neste Treino!</a> |
+    <a asp-action="Index">Voltar ao Inicio</a>
+</div>

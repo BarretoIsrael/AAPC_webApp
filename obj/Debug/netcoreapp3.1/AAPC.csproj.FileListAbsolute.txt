@@ -1,0 +1,684 @@
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\AAPC.exe
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.AssemblyInfoInputs.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.AssemblyInfo.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.RazorAssemblyInfo.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.RazorAssemblyInfo.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.TagHelpers.input.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.TagHelpers.output.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.RazorCoreGenerate.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.RazorTargetAssemblyInfo.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.RazorTargetAssemblyInfo.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\staticwebassets\AAPC.StaticWebAssets.Manifest.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\staticwebassets\AAPC.StaticWebAssets.xml
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\AAPC.deps.json
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\AAPC.runtimeconfig.json
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\AAPC.runtimeconfig.dev.json
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\AAPC.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\AAPC.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\AAPC.Views.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\AAPC.Views.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.Views.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.csproj.CopyComplete
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.genruntimeconfig.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Create.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Delete.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Details.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Edit.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Index.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.csproj.CoreCompileInputs.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Create.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Delete.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Details.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Edit.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Index.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\AAPC.csprojAssemblyReference.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Create.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Delete.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Details.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Edit.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Index.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Create.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Delete.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Details.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Edit.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Index.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Create.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Delete.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Details.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Edit.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\29-11-2020\AAPC\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Index.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.exe
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.deps.json
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.runtimeconfig.json
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.runtimeconfig.dev.json
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.pdb
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.Views.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.Views.pdb
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.csprojAssemblyReference.cache
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.AssemblyInfoInputs.cache
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.AssemblyInfo.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.csproj.CoreCompileInputs.cache
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.RazorAssemblyInfo.cache
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.RazorAssemblyInfo.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.TagHelpers.input.cache
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.TagHelpers.output.cache
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.RazorCoreGenerate.cache
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Create.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Delete.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Details.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Edit.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Index.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Create.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Delete.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Details.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Edit.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Index.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Create.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Delete.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Details.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Edit.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Index.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Create.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Delete.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Details.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Edit.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Index.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Create.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Delete.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Details.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Edit.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Index.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.RazorTargetAssemblyInfo.cache
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.RazorTargetAssemblyInfo.cs
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.Views.pdb
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.csproj.CopyComplete
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\staticwebassets\AAPC.StaticWebAssets.Manifest.cache
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\staticwebassets\AAPC.StaticWebAssets.xml
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.dll
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.pdb
+D:\Documents\Faculdade\2020_2\DesenvolvimentoWEB\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.genruntimeconfig.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.exe
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.deps.json
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.runtimeconfig.json
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.runtimeconfig.dev.json
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.Views.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\AAPC.Views.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.csprojAssemblyReference.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.AssemblyInfoInputs.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.AssemblyInfo.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.csproj.CoreCompileInputs.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.RazorAssemblyInfo.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.RazorAssemblyInfo.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.TagHelpers.input.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.TagHelpers.output.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.RazorCoreGenerate.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Create.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Delete.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Details.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Edit.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Participantes\Index.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Create.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Delete.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Details.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Edit.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoQuintas\Index.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Create.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Delete.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Details.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Edit.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoSabadoes\Index.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Create.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Delete.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Details.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Edit.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\Treinos\Index.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Create.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Delete.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Details.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Edit.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\TreinoTercas\Index.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.RazorTargetAssemblyInfo.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.RazorTargetAssemblyInfo.cs
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.Views.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.csproj.CopyComplete
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\staticwebassets\AAPC.StaticWebAssets.Manifest.cache
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\staticwebassets\AAPC.StaticWebAssets.xml
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.dll
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.pdb
+C:\Users\Haô\Documents\FACULDADE\Dev Web\Projeto\Git\AAPC-master\obj\Debug\netcoreapp3.1\AAPC.genruntimeconfig.cache

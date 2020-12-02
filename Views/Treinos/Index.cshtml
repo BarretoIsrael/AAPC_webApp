@@ -1,0 +1,146 @@
+﻿@model IEnumerable<AAPC.Models.Treino>
+
+@{ ViewData["Title"] = "Index"; }
+<body style="background: url('@Url.Content("~/Images/imgfundo.jpg")');">
+
+    <div class="text-center">
+        <h1>AAPC</h1>
+        <h2>Amigos Apaixonados por Corrida</h2><br />
+    </div>
+
+    <img class="imglogo" src="~/Images/aapc.jpg" alt="Grupo AAPC"> <br />
+
+    <div class="objetivo">
+        <h5> Objetivos do Grupo:</h5>
+        <ol>
+
+            <li> Cuidar da saúde através da prática de exercícios. </li>
+            <li> Cuidar da mente realizando uma atividade prazerosa. </li>
+            <li> Estar entre amigos. </li>
+        </ol>
+    </div>
+    <!-- <div class="text-center">
+        <img src="~\Assets\corrida.jpg" />
+
+     </div>-->
+    <!--
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>-->
+    <div class="row">
+        <div class="col-md-8">
+            <table class="table">
+
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Dia)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Horario)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Local)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Horario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Local)
+            </td>
+
+        </tr>
+}
+                </tbody>
+            </table>
+        </div>
+
+        <div class="col-md-4">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th></th>
+                    </tr>
+                    <tr>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <a asp-controller="TreinoTercas" asp-action="Index">Detalhes e Inscrição</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a asp-controller="TreinoQuintas" asp-action="Index">Detalhes e Inscrição</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a asp-controller="TreinoSabadoes" asp-action="Index">Detalhes e Inscrição</a>
+                        </td>
+
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+<br/>
+<p style="color:purple"> Nos siga no Instagram!</p>
+<a href="https://www.instagram.com/amigos_apaixonados_por_corrida/?hl=pt-br" target="_blank"> <img src="~/Images/instagram.png" WIDTH="50" HEIGHT="50"></a><br>
+<a href="#top">Voltar ao topo</a>
+<style>
+
+    .topo {
+        font-size: 35px;
+        text-align: center;
+        color: green;
+    }
+
+    .opc {
+        color: black;
+        text-align: left;
+        font-weight: bold;
+    }
+
+    .tableaapc table, th, td {
+        color: black;
+        font-style: normal;
+        text-align: left;
+        /*border: double darkgray;*/
+        padding: 7px;
+        text-align: left;
+    }
+
+    .imglogo {
+        border-style: double;
+        width: 15%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        /*padding-bottom: 30px;*/
+    }
+
+    .imgfundo {
+        background-image: url('../../wwwroot/Images/aapc.jpg')
+    }
+
+    .objetivo {
+        color: black;
+        font-style: normal;
+        text-align: left;
+        }
+</style>

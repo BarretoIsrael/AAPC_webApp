@@ -1,0 +1,64 @@
+﻿@model AAPC.Models.TreinoViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="text-center">
+    <h3>Detalhes do Treino de Terça</h3>
+    <img class="imglogo" src="~/Images/imbui.jpg"> <br />
+    <h4>20:00h | Imbuí</h4>
+
+    <h4>Participantes Inscritos:</h4>
+</div>
+<div class="text-right">
+    <!--Pesquisa de dados-->
+    <form asp-controller="TreinoTercas" asp-action="Index" method="get">
+        <p>
+            Nome:
+            <input type="text" asp-for="SearchString" />
+            <input type="submit" value="Buscar" />
+        </p>
+    </form>
+</div>
+<p>
+    <a asp-action="Create">Inscreva-se!</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LPTTerca[0].Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LPTTerca[0].Sobrenome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LPTTerca[0].Nascimento)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.LPTTerca)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Sobrenome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nascimento)
+                </td>
+                <!--
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>-->
+            </tr>
+        }
+    </tbody>
+</table>
